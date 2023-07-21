@@ -71,8 +71,8 @@ Freelance software developer with 3+ years experience in Java and related framew
   </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://keras.io/img/logo.png" alt="keras" width="105" height="30" />
-<!--   </a>
-    <a href="" target="_blank" rel="noreferrer">
+  </a> 
+<!--   <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="sklearn" width="40" height="40" />
-  </a> -->
+  </a>  -->
 </p>
