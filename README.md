@@ -70,7 +70,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://www.gstatic.com/devrel-devsite/prod/v47124a092dd56bf2680cfca4b2ab69e9e6a534f056a1a0dbc4abcaa7cdbba977/tensorflow/images/lockup.svg" alt="tensorflow" width="105" height="40" />
   </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://keras.io/img/logo.png" alt="keras" width="105" height="40" />
+    <img src="https://keras.io/img/logo.png" alt="keras" width="105" height="30" />
 <!--   </a>
     <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="sklearn" width="40" height="40" />
