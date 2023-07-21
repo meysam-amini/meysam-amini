@@ -16,7 +16,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://images.ctfassets.net/8vofjvai1hpv/7q4mSQH3XG8kMQbFoUP1te/e2b4e2ce93e7cde5d8dcc6a7a7390693/kafkablog.png" alt="Kafka" width="40" height="60" />
+    <img src="https://images.ctfassets.net/8vofjvai1hpv/7q4mSQH3XG8kMQbFoUP1te/e2b4e2ce93e7cde5d8dcc6a7a7390693/kafkablog.png" alt="Kafka" width="70" height="40" />
   </a>
    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" width="40" height="40" />
@@ -25,7 +25,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
   </a>
   <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-    <img src="https://pretius.com/wp-content/uploads/2023/02/Keycloak.png" alt="Keycloak" width="40" height="60" />
+    <img src="https://pretius.com/wp-content/uploads/2023/02/Keycloak.png" alt="Keycloak" width="70" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
