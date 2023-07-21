@@ -16,7 +16,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" alt="Kafka" width="40" height="40" />
+    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20White%20on%20Transparent.png" alt="Kafka" width="40" height="40" />
   </a>
    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" width="40" height="40" />
