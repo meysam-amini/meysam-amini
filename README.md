@@ -34,7 +34,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="RabbitMQ" width="95" height="30" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.pngaaa.com/api-download/2459628" alt="javascript" width="40" height="40" />
+    <img src="https://benjaminaster.com/web-features/assets/icon.svg" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
@@ -49,7 +49,7 @@ Freelance software developer with 3+ years experience in Java and related framew
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.seekpng.com/png/full/221-2211816_elk-stack-logo.png" alt="ELK" width="70" height="40" />
+    <img src="https://www.seekpng.com/png/full/221-2211816_elk-stack-logo.png" alt="ELK" width="95" height="40" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
