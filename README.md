@@ -1,4 +1,4 @@
-Freelance software developer with 3+ years experience in Java and related frameworks and tools. Also interested in AI, Data Sience and ML, and Experienced in making streaming analytics pipelines using Spark and Kafka, skilled in Machine Learning , Deep Learning and Data Analysis with python.
+Freelance software developer with 3+ years experience in Java and related frameworks and tools. Also interested in AI, Data Sience and ML, and Experienced in making streaming analytics pipelines using Spark and Kafka, skilled in Machine Learning , Deep Learning and Data Analysis with Python.
 <!--
 **meysam-amini/meysam-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
