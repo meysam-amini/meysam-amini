@@ -13,7 +13,7 @@ I'm Meysam, Java software developer with 4+ years experience in Java and related
   <img alt="Java" src="https://img.shields.io/badge/-JAVA-DD0031?style=flat-square&logo=openjdk&logoColor=black" width="80" height="30"/>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="90" height="30"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white" width="130" height="30"/>
-  <img alt="Apache Maven" src="https://img.shields.io/badge/-Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white" width="130" height="30"/>
+  <img alt="Apache Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white" width="110" height="30"/>
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" width="80" height="30"/>
   <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white" width="80" height="30"/>
   <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-white?style=flat-square&logo=&logoColor=white" width="80" height="30"/>
