@@ -2,9 +2,9 @@
 I'm Meysam, Java software developer with 4+ years experience in Java and related frameworks and tools. Proficient in developing secure and reliable spring-boot backend services, Also interested in AI, Data Sience and ML, experienced in making streaming analytics pipelines using Spark and Kafka, and skilled in Machine Learning , Deep Learning and Data Analysis with Python.
 
 
-![Anurag's GitHub stats](https://github-readme-stats-jet-chi.vercel.app/api?username=meysam-amini&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-meysam-amini.vercel.app/api?username=meysam-amini&show_icons=true&theme=highcontrast)
 ---
-![Top Langs](https://github-readme-stats-jet-chi.vercel.app/api/top-langs/?username=meysam-amini&hide_progress=true)
+![Top Langs](https://github-readme-stats-git-master-meysam-amini.vercel.app/api/top-langs/?username=meysam-amini&hide_progress=true)
 
 ---
 <h3 align="left">Languages and Tools:</h3>
