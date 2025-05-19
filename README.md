@@ -12,7 +12,7 @@ Learning and Data Analysis with Python.
 
   <img alt="Java" src="https://img.shields.io/badge/-JAVA-DD0031?style=flat-square&logo=openjdk&logoColor=black" width="80" height="30"/>
   <img
-    src="https://blog.payara.fish/hs-fs/hubfs/jakarta%20ee-1.jpg"
+    src="![jakarta ee-1](https://github.com/user-attachments/assets/1c79302a-ea1f-499a-a5ad-9a7ab55fa4ad)"
     alt="Jakarta EE"
     width="90"
     height="30"
