@@ -9,7 +9,6 @@ I'm Meysam, a Java software developer with 7+ years of experience in Java and re
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring(Data, Cloud, Security)](https://img.shields.io/badge/Spring(Boot,%20Data,%20Cloud,%20Security)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-ED8B00?style=for-the-badge&logo=jakartaee&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
 ## 🗄️ Databases
