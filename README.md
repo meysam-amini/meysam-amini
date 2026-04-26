@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-I'm Meysam, a Java software developer with 7+ years of experience in Java and related frameworks and tools. Proficient in developing secure and reliable backend services with Java & Spring framework. Also interested in AI, Data Science, and ML, experienced in building streaming analytics pipelines using Spark and Kafka, and skilled in Machine Learning, Deep Learning, and Data Analysis with Python.
+I'm Meysam, a Java software developer with 8+ years of experience in Java and related frameworks and tools. Proficient in developing secure and reliable backend services with Java & Spring framework. Also interested in AI, Data Science, and ML, experienced in building streaming analytics pipelines using Spark and Kafka, and skilled in Machine Learning, Deep Learning, and Data Analysis with Python.
 
 ---
 
